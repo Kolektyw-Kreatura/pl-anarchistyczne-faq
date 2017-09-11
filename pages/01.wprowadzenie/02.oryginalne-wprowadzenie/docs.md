@@ -1,9 +1,9 @@
 ---
-title: Wprowadzenie
+title: Wstęp do wydania anglojęzycznego
 ---
 
-> "Proletariusze świata, wejrzyjcie w głębiny swych własnych jestestw, odkryjcie tam prawdę i sami ją urzeczywistniajcie. Nie znajdziecie bowiem jej nigdzie indziej" 
->  – Piotr Arszynow, 
+> "Proletariusze świata, wejrzyjcie w głębiny swych własnych jestestw, odkryjcie tam prawdę i sami ją urzeczywistniajcie. Nie znajdziecie bowiem jej nigdzie indziej"
+>  – Piotr Arszynow,
 > _Dzieje ruchu machnowszczyzny_  
 
 ## Witamy w naszym FAQ na temat anarchizmu.
