@@ -2,7 +2,6 @@
 title: 'Wstęp do sekcji A: Czym jest anarchizm?'
 ---
 
-
 ### Sekcja A  
 # Czym jest anarchizm?
 
