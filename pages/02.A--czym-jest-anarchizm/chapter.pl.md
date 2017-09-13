@@ -1,9 +1,10 @@
 ---
-title: 'Wstęp do sekcji A: Czym jest anarchizm?'
+title: 'A: Czym jest anarchizm?'
 ---
 
 ### Sekcja A  
 # Czym jest anarchizm?
+### Wstęp
 
 Nowoczesna cywilizacja stoi wobec trzech kryzysów, mogących doprowadzić do katastrofy: (1) załamania się społeczeństwa (pod tą skrótową nazwą rozumiemy narastające odsetki ubóstwa, bezdomności, przestępstw, przemocy, wyobcowania, nadużywania narkotyków i alkoholu, społecznej izolacji, politycznej apatii, odczłowieczenia, upadek społecznych struktur samopomocy i wzajemnej pomocy itd.); (2) zniszczenia wątłych ekosystemów planety, od których zależą wszystkie złożone formy życia; oraz (3) rozbudowywania broni masowego rażenia, szczególnie broni jądrowej.
 
