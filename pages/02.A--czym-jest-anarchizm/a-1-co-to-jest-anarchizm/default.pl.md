@@ -1,5 +1,6 @@
 ---
 title: 'A.1 Co to jest anarchizm?'
+visible: true
 ---
 
 # A.1 Co to jest anarchizm?
