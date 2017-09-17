@@ -19,21 +19,17 @@ Ten rozwój fałszywych wyobrażeń posiada jednak swoje historyczne odpowiednik
 
 Anarchiści chcą zmienić tę "zdroworozsądkową" koncepcję "anarchii", tak, żeby ludzie ujrzeli, że rząd i inne hierarchiczne stosunki społeczne są zarówno szkodliwe, **jak i** niepotrzebne:
 
-> _"Zmienić opinię, przekonać naród, że rząd jest nie tylko niepotrzebny, lecz skrajnie szkodliwy, a wtedy słowo anarchia, właśnie ponieważ znaczy nieobecność rządu, odzyska swe prawdziwe znaczenie dla każdego: naturalny porządek, jedność ludzkich potrzeb i interesów ogółu, całkowita swoboda w ramach całkowitej solidarności"_ [**Ibid.**].
+> _"Zmienić opinię, przekonać naród, że rząd jest nie tylko niepotrzebny, lecz skrajnie szkodliwy, a wtedy słowo anarchia, właśnie ponieważ znaczy nieobecność rządu, odzyska swe prawdziwe znaczenie dla każdego: naturalny porządek, jedność ludzkich potrzeb i interesów ogółu, całkowita swoboda w ramach całkowitej solidarności"_ [**ibidem**].
 
 Napisanie tych FAQ jest częścią procesu zmieniania powszechnie utrzymywanych idei dotyczących anarchizmu i znaczenia anarchii.
 
-<a name="seca11"></a>
-
 ## <a name="seca11">A.1.1 Co znaczy słowo "anarchia"?</a>
-
-<a name="seca11">
 
 Słowo _**"anarchia"**_ pochodzi z greki, przedrostek **an-** (lub **a-** przed spółgłoskami) znaczy _"nie", "niedostatek...", "nieobecność..."_ albo _"brak..."_, zaś rdzeń **archos** znaczy _"władca", "kierownik", "wódz", "opiekun"_ lub _"autorytet"_. Lub, jak to ujął Piotr Kropotkin, Anarchia wywodzi się z greckich słów, oznaczających _"przeciwko władzy"_ [**Wspomnienia rewolucjonisty**].
 
 Podczas gdy greckie słowa **_anarchos_** i **_anarchia_** często są przedstawiane w znaczeniu _"nieposiadanie rządu"_ lub _"istnienie bez rządu"_, jak możemy zauważyć, to ścisłe, oryginalne znaczenie anarchizmu nie ograniczało się po prostu do _"braku rządu"_. _**"An-archia"**_ znaczy _"bez władcy"_, lub bardziej ogólnie, _"bez władzy"_, i to właśnie w takim ujęciu anarchiści zawsze używali tego słowa. Na przykład, odnajdujemy argumenty Kropotkina, że anarchizm _"atakuje nie tylko kapitał, ale także główne źródła potęgi kapitalizmu: prawo, władzę i Państwo"_. [**Op. Cit.**] Dla anarchistów, anarchia oznacza _"niekoniecznie brak porządku, jak się powszechnie przypuszcza, ale brak panowania"_ [Benjamin Tucker, **Zamiast książki**]. Toteż David Weick znakomicie to streszcza:
 
-> _"Anarchizm może być rozumiany jako **ogólna** społeczna i polityczna idea, która wyraża zaprzeczenie **wszelkiej** władzy, zwierzchności, dominacji, i hierarchicznych podziałów, oraz wolę ich rozłożenia. . . Anarchizm jest dlatego czymś więcej niż działalnością antypaństwową . . . [nawet gdy]  
+> _"Anarchizm może być rozumiany jako **ogólna** społeczna i polityczna idea, która wyraża zaprzeczenie **wszelkiej** władzy, zwierzchności, dominacji, i hierarchicznych podziałów, oraz wolę ich rozłożenia. . . Anarchizm jest dlatego czymś więcej niż działalnością antypaństwową . . . [nawet gdy]\
 > rząd (państwo) . . . pozostaje, w odpowiednich proporcjach, centralnym obiektem anarchistycznej krytyki"_ [**Odkrywanie anarchii na nowo**].
 
 Z tego powodu, anarchizm jest ruchem skierowanym raczej przeciwko _**hierarchii**_, niż czysto antyrządowym lub antypaństwowym. Dlaczego? Ponieważ hierarchia jest strukturą organizacyjną, która ucieleśnia władzę. A skoro państwo jest "najwyższą" formą hierarchii, anarchiści są, z definicji, antypaństwowi; ale to **nie jest** wystarczająca definicja anarchizmu. To oznacza, że prawdziwi anarchiści są przeciwko wszystkim formom organizacji hierarchicznej, nie tylko państwu. W słowach Briana Morrisa:
@@ -52,13 +48,9 @@ Tak więc "anarchia" znaczy dużo więcej niż tylko "brak rządu", bo oznacza o
 
 I wreszcie, stwierdzając oczywiste, anarchia nie oznacza chaosu, ani też anarchiści nie pragną stworzyć chaosu ani nieporządku. Zamiast tego, życzymy sobie stworzenia społeczeństwa opartego na wolności osobistej i dobrowolnej współpracy. Mówiąc inaczej, porządku ustalanego oddolnie w górę, a nie bałaganu narzucanego odgórnie w dół przez władze.
 
-</a>
-
-<a name="seca11"></a><a name="seca12"></a>
-
-## <a name="seca12">A.1.2 Co znaczy słowo "anarchizm"?</a>
-
 <a name="seca12">
+## <a name="seca12">A.1.2 Co znaczy słowo "anarchizm"?</a>
+</a name="seca12">
 
 Cytując Piotra Kropotkina, Anarchizm jest _"bezpaństwowym systemem socjalizmu"_ [**Wspomnienia rewolucjonisty**]. Inaczej, _"zniesieniem wyzysku i ucisku człowieka przez człowieka, a więc zniesieniem własności prywatnej [tj. kapitalizmu] i rządu"_ [Errico Malatesta, _"Ku anarchizmowi"_ w **Człowiek!**]
 
@@ -91,7 +83,7 @@ Wielu anarchistów, widząc negatywny charakter definicji _"anarchizmu"_ używa 
 Rozważając definicje zawarte w **American Heritage Dictionary**, znajdujemy:
 
 > **LIBERTARIANIN:** _ktoś, kto wierzy w wolność myśli i czynów; ktoś, kto wierzy w wolną wolę._
-> 
+>
 > **SOCJALIZM:** _system społeczny, w którym wytwórcy posiadają zarówno władzę polityczną, jak też i środki produkcji i rozdziału dóbr._
 
 Gdy właśnie weźmiemy te dwie pierwsze definicje i połączymy je, uzyskamy:
@@ -104,7 +96,7 @@ Jednakże, wskutek stworzenia Partii Libertariańskiej w Stanach Zjednoczonych, 
 
 </a>
 
-<a name="seca13">Nic nie może być odleglejsze od prawdy. Anarchiści używali terminu "libertariański", ażeby opisać siebie i swoje idee począwszy od lat pięćdziesiątych XIX wieku. Rewolucyjny anarchista Joseph Dejacque wydawał **Le Libertaire, Journal du Mouvement social** w Nowym Jorku między 1858 a 1861 rokiem [Max Nettlau, **Krótka historia anarchizmu**]. Według anarchistycznego historyka Maxa Nettlaua, używanie określenia _"libertariański komunizm"_ datuje się od listopada 1880 roku, kiedy to francuski kongres anarchistyczny przyjął je [**Ibid.**]. Stosowanie terminu "libertariański" przez anarchistów stało się bardziej popularne począwszy od lat dziewięćdziesiątych XIX wieku, po tym, jak był on używany we Francji w celach obejścia antyanarchistycznych praw i uniknięcia negatywnych skojarzeń ze słowem "anarchia" w przeciętnych umysłach (na przykład Sebastien Faure i Louise Michel wydawali gazetę **Le Libertaire** -- **Libertarianin** -- we Francji w 1895 roku). Od tej pory, szczególnie poza Ameryką, słowo to **zawsze** było kojarzone z anarchistycznymi ruchami i ideami. Podając nieco nowszy przykład, w Stanach Zjednoczonych, anarchiści zorganizowali _**"Ligę Libertariańską"**_ w lipcu 1954 roku, która pozostawała oddana zasadom anarcho-syndykalistycznym i przetrwała do 1965 roku. Z drugiej strony, założona w USA Partia "Libertariańska", istnieje dopiero od wczesnych lat siedemdziesiątych, grubo ponad sto lat po tym, gdy anarchiści pierwsi użyli tej nazwy do opisania swoich politycznych idei (i dziewięćdziesiąt lat po tym, gdy po raz pierwszy przyjęto wyrażenie "libertariański komunizm"). To właśnie ta partia, a nie anarchiści "ukradli" to słowo. Później, w</a> [Sekcji B](SekcjaB.html), przedyskutujemy, dlaczego idea "libertariańskiego" kapitalizmu (tego upragnionego przez Partię Libertariańską) jest sprzecznością pojęciową.
+<a name="seca13">Nic nie może być odleglejsze od prawdy. Anarchiści używali terminu "libertariański", ażeby opisać siebie i swoje idee począwszy od lat pięćdziesiątych XIX wieku. Rewolucyjny anarchista Joseph Dejacque wydawał **Le Libertaire, Journal du Mouvement social** w Nowym Jorku między 1858 a 1861 rokiem \[Max Nettlau, **Krótka historia anarchizmu**]. Według anarchistycznego historyka Maxa Nettlaua, używanie określenia _"libertariański komunizm"_ datuje się od listopada 1880 roku, kiedy to francuski kongres anarchistyczny przyjął je \[**Ibid.**]. Stosowanie terminu "libertariański" przez anarchistów stało się bardziej popularne począwszy od lat dziewięćdziesiątych XIX wieku, po tym, jak był on używany we Francji w celach obejścia antyanarchistycznych praw i uniknięcia negatywnych skojarzeń ze słowem "anarchia" w przeciętnych umysłach (na przykład Sebastien Faure i Louise Michel wydawali gazetę **Le Libertaire** -- **Libertarianin** -- we Francji w 1895 roku). Od tej pory, szczególnie poza Ameryką, słowo to **zawsze** było kojarzone z anarchistycznymi ruchami i ideami. Podając nieco nowszy przykład, w Stanach Zjednoczonych, anarchiści zorganizowali _**"Ligę Libertariańską"**_ w lipcu 1954 roku, która pozostawała oddana zasadom anarcho-syndykalistycznym i przetrwała do 1965 roku. Z drugiej strony, założona w USA Partia "Libertariańska", istnieje dopiero od wczesnych lat siedemdziesiątych, grubo ponad sto lat po tym, gdy anarchiści pierwsi użyli tej nazwy do opisania swoich politycznych idei (i dziewięćdziesiąt lat po tym, gdy po raz pierwszy przyjęto wyrażenie "libertariański komunizm"). To właśnie ta partia, a nie anarchiści "ukradli" to słowo. Później, w</a> [Sekcji B](SekcjaB.html), przedyskutujemy, dlaczego idea "libertariańskiego" kapitalizmu (tego upragnionego przez Partię Libertariańską) jest sprzecznością pojęciową.
 
 Jak wyjaśnimy również w [Sekcji I](SekcjaI.html), tylko libertariańsko-socjalistyczny system własności może zmaksymalizować wolność osobistą. Nie trzeba powtarzać, że własność państwowa -- która jest powszechnie **nazywana** "socjalizmem" -- dla anarchistów wcale socjalizmem nie jest. Faktycznie, jak opowiemy szczegółowo w [Sekcji H](SekcjaH.html), państwowy "socjalizm" jest tylko odmianą kapitalizmu, bez jakiejkolwiek socjalistycznej zawartości.
 
@@ -152,15 +144,15 @@ I to właśnie z powodu tych różnic z propaństwowymi socjalistami, oraz dla u
 
 <a name="seca15">Skąd anarchizm pochodzi? Nie możemy uczynić nic lepszego, niż zacytowanie **Platformy Organizacyjnej Wolnościowych Komunistów** stworzonej przez uczestników ruchu machnowszczyzny podczas rewolucji rosyjskiej (zobacz</a> [Sekcję A.5.4](SekcjaAe4.html)). Wskazują oni, że:
 
-> _"Walka klasowa, stworzona przez zniewolenie robotników, i ich dążenia do wolności dały początek, w warunkach ucisku, idei anarchizmu: idei totalnej negacji systemu społecznego opartego na zasadzie klas społecznych i Państwa, oraz ich zastąpienia przez wolne bezpaństwowe społeczeństwo kierowane przez samorząd pracowniczy"
-> 
+> \_"Walka klasowa, stworzona przez zniewolenie robotników, i ich dążenia do wolności dały początek, w warunkach ucisku, idei anarchizmu: idei totalnej negacji systemu społecznego opartego na zasadzie klas społecznych i Państwa, oraz ich zastąpienia przez wolne bezpaństwowe społeczeństwo kierowane przez samorząd pracowniczy"
+>
 > "A więc anarchizm nie pochodzi od wydumanych rozważań jakiegoś intelektualisty czy filozofa [w przeciwieństwie do wielu ideologii, np. marksizmu - przyp. tłum.], ale z bezpośredniej walki robotniczej przeciw kapitalizmowi, z potrzeb i niedostatków robotników, z ich dążeń do wolności i równości, dążeń, które szczególnie ożyły w najlepszym bohaterskim okresie życia i walki mas pracujących"
-> 
-> _
-> 
+>
+> \_
+>
 > _"Wyróżniający się anarchistyczni myśliciele, Bakunin, Kropotkin i inni, wcale nie wynaleźli idei anarchizmu, lecz, odkrywszy ją wśród mas, po prostu poprzez swoją wiedzę i siłę umysłów, pomogli w jej skonkretyzowaniu się i rozpowszechnianiu"_
 
-Podobnie jak ruch anarchistyczny w ogóle, machnowszczyzna była masowym ruchem ludzi pracy stawiających opór siłom władzy, zarówno Czerwonym (komunistom), jak i Białym (procarskim kapitalistom) na Ukrainie w latach 1917 - 1921\. Jak zauważa Peter Marshall _"anarchizm . . . tradycyjnie znajdował swoich głównych zwolenników wśród robotników i chłopów"_ [**Żądanie niemożliwego**].
+Podobnie jak ruch anarchistyczny w ogóle, machnowszczyzna była masowym ruchem ludzi pracy stawiających opór siłom władzy, zarówno Czerwonym (komunistom), jak i Białym (procarskim kapitalistom) na Ukrainie w latach 1917 - 1921. Jak zauważa Peter Marshall _"anarchizm . . . tradycyjnie znajdował swoich głównych zwolenników wśród robotników i chłopów"_ [**Żądanie niemożliwego**].
 
 Anarchizm został stworzony podczas walki uciskanych o wolność, i właśnie przez tę walkę. Na przykład, według Kropotkina, _"Anarchizm . . . narodził się w codziennych zmaganiach"_ i _"ruch anarchistyczny odnawiał się za każdym razem, gdy otrzymywał znak z jakiejś wielkiej lekcji praktycznej: wywodzi swój początek z nauk udzielanych przez samo życie"_ (zobacz też [sekcję J.5](SekcjaJ5.html)) [**Ewolucja a środowisko**]. Według Proudhona, _"dowód"_ jego mutualistycznych idei leży w _"obecnej praktyce, rewolucyjnej praktyce. . . tych stowarzyszeń pracowniczych. . . które zostały spontanicznie. . . uformowane w Paryżu i Lyonie. . . [pokazując, że] organizacja kredytu i organizacja pracy równają się jednemu i temu samemu"_ [**Żadnych bogów, żadnych panów**]. Rzeczywiście, jak udowadnia pewien historyk, istniało _"ścisłe podobieństwo między ideałem stowarzyszeń Proudhona. . . a programem mutualistów z Lyonu"_, i że miała miejsce _"znaczna zbieżność [między tymi ideami], i jest to prawdopodobne, iż Proudhon zdołał ściślej sformułować swój pozytywny program dzięki przykładowi tkaczy jedwabiu z Lyonu. Socjalistyczny ideał, za którym orędował, już został urzeczywistniony w pewnym stopniu przez tych robotników."_ [K. Steven Vincent, **Pierre-Joseph Proudhon i powstanie republikańskiego socjalizmu we Francji**].
 
