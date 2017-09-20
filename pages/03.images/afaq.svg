@@ -1,0 +1,83 @@
+<svg id="grav-logo" width="587.38" height="280.64" clip-rule="evenodd" enable-background="new" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 .1 587.38 282.46" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="afaqb" color-interpolation-filters="sRGB">
+<feBlend in2="BackgroundImage" mode="luminosity"/>
+</filter>
+<filter id="afaqa" color-interpolation-filters="sRGB">
+<feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+<feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+<feGaussianBlur in="composite1" result="blur" stdDeviation="6"/>
+<feOffset dx="10" dy="10" result="offset"/>
+<feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+</filter>
+<filter id="afaqc" color-interpolation-filters="sRGB">
+<feMorphology in="SourceAlpha" operator="dilate" radius="3.6" result="result1"/>
+<feGaussianBlur in="result1" result="result0" stdDeviation="3.6"/>
+<feDiffuseLighting surfaceScale="-5">
+<feDistantLight azimuth="225" elevation="45"/>
+</feDiffuseLighting>
+<feComposite in2="result0" operator="in" result="result91"/>
+<feComposite in="SourceGraphic" in2="result91" result="fbSourceGraphic"/>
+<feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+<feGaussianBlur in="fbSourceGraphicAlpha" result="result0" stdDeviation="4"/>
+<feOffset dx="5" dy="5" result="result4"/>
+<feComposite in="fbSourceGraphic" in2="result4" operator="xor" result="result3"/>
+</filter>
+</defs>
+<g transform="translate(42.079 -1.9765)" filter="url(#afaqb)">
+<g filter="url(#afaqa)">
+<g fill="#fff">
+<g transform="matrix(1.4372 0 0 1.4372 5.0149 -2.6283)" clip-rule="evenodd" enable-background="new" fill-rule="evenodd" filter="url(#afaqa)" stroke-linejoin="round" stroke-miterlimit="1.4142" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">
+<path d="m0.16477 36.414h6.04l3.28-7.64h10.52l3.16 7.64h6.04l-12.4-29.56h-4.32zm11.32-12.88 3.16-8.96 3.16 8.96z"/>
+<path d="m32.214 36.414h5.48v-21.48l12.36 21.48h6.12v-29.56h-5.48v21.52l-12.24-21.52h-6.24z"/>
+<path d="m59.149 36.414h6.04l3.28-7.64h10.52l3.16 7.64h6.04l-12.4-29.56h-4.32zm11.32-12.88 3.16-8.96 3.16 8.96z"/>
+<path d="m91.199 36.414h5.48v-11.32l7.76 11.32h6.76l-8-10.92c2.28-0.56 3.4-1.08 4.68-2.16 2.04-1.72 3.04-4.04 3.04-7 0-3.04-1.08-5.56-3.12-7.28-1.92-1.64-4.04-2.2-8.08-2.2h-8.52zm5.48-15.44v-8.88h2.44c2.56 0 3.96 0.28 4.84 1.04 0.96 0.76 1.44 1.92 1.44 3.36 0 3.12-1.8 4.48-6.04 4.48z"/>
+<path d="m135.8 28.174c-2.44 2.52-4.48 3.48-7.32 3.48-5.48 0-9.92-4.56-9.92-10.08 0-2.4 0.92-4.96 2.44-6.72 1.8-2.12 4.36-3.24 7.36-3.24 3.44 0 5.76 1.12 7.76 3.72h6.12c-1.16-2.56-2.2-3.96-4.2-5.6-2.72-2.2-6.2-3.4-9.8-3.4-8.36 0-15.2 6.84-15.2 15.2 0 8.56 6.92 15.4 15.56 15.4 6.08 0 11.32-3.36 13.64-8.76z"/>
+<path d="m145.89 36.414h5.48v-12.4h10.56v12.4h5.48v-29.56h-5.48v11.92h-10.56v-11.92h-5.48z"/>
+<path d="m173.39 36.414h5.48v-29.56h-5.48z"/>
+<path d="m182.4 27.974c0.2 2.32 0.72 3.8 1.92 5.4 1.76 2.24 4.64 3.56 7.8 3.56 5.32 0 9.44-4.12 9.44-9.48 0-2.48-0.88-4.56-2.64-6.16-1.16-1.08-2.08-1.56-5-2.68-2.8-1.04-2.88-1.08-3.28-1.32-1.08-0.68-1.64-1.6-1.64-2.68 0-1.76 1.24-3 3.04-3 1.84 0 2.96 1.12 3.12 3.12h5.68c-0.12-2.24-0.64-3.76-1.84-5.24-1.6-2-4.16-3.16-6.92-3.16-4.8 0-8.6 3.72-8.6 8.4 0 3.72 2.16 6.56 6.16 8.04 3.96 1.48 4.24 1.6 5.12 2.28 0.88 0.72 1.36 1.76 1.36 3 0 2.12-1.64 3.6-4 3.6-2.44 0-3.76-1.2-4-3.68z"/>
+<path d="m208.54 36.414h5.48v-24.32h5.48v-5.24h-16.44v5.24h5.48z"/>
+<path d="m230.58 36.414h5.48v-10.92l9.72-18.64h-5.92l-6.56 13.6-6.52-13.6h-5.92l9.72 18.64z"/>
+<path d="m267.75 28.174c-2.44 2.52-4.48 3.48-7.32 3.48-5.48 0-9.92-4.56-9.92-10.08 0-2.4 0.92-4.96 2.44-6.72 1.8-2.12 4.36-3.24 7.36-3.24 3.44 0 5.76 1.12 7.76 3.72h6.12c-1.16-2.56-2.2-3.96-4.2-5.6-2.72-2.2-6.2-3.4-9.8-3.4-8.36 0-15.2 6.84-15.2 15.2 0 8.56 6.92 15.4 15.56 15.4 6.08 0 11.32-3.36 13.64-8.76z"/>
+<path d="m275.45 31.774v4.64h18.48v-5.24h-11.88l11.12-19.4v-4.92h-17.12v5.24h10.6z"/>
+<path d="m297.45 36.414h5.48v-21.48l12.36 21.48h6.12v-29.56h-5.48v21.52l-12.24-21.52h-6.24z"/>
+<path d="m327.06 36.414h15.88v-5.24h-10.4v-6.88h9.96v-5.24h-9.96v-6.96h10.4v-5.24h-15.88z"/>
+</g>
+<g style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="FOAQ">
+<path transform="matrix(1.0065 0 0 1.0065 -1.6275 .1)" d="m229.12 61.305a110.65 110.65 0 0 0-110.65 110.65 110.65 110.65 0 0 0 110.65 110.65 110.65 110.65 0 0 0 110.65-110.65 110.65 110.65 0 0 0-110.65-110.65zm0 21.023a89.627 89.627 0 0 1 89.627 89.627 89.627 89.627 0 0 1-89.627 89.627 89.627 89.627 0 0 1-89.627-89.627 89.627 89.627 0 0 1 89.627-89.627z" stroke-width="6.3295"/>
+<g stroke-width="101.39" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="FAQ">
+<path d="m-1.6213 63.224h134.33v26.351h-107.98v52.703h92.166v26.351h-92.166v78.926h-26.351z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+<path d="m242.15 63.224 71.084 184.33h-26.351l-16.325-42.419h-83.167l-16.325 42.419h-26.351l71.084-184.33zm-44.733 115.56h62.986l-31.365-81.239z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+<path d="m499.83 221.2q0 5.3988-2.0567 10.283-2.0567 4.7561-5.6559 8.3553t-8.4839 5.6559q-4.7561 2.0567-10.155 2.0567h-39.463v34.192h-26.351v-34.192h-39.463q-5.3988 0-10.283-2.0567-4.7561-2.0567-8.3553-5.6559t-5.6559-8.3553q-2.0567-4.8846-2.0567-10.283v-131.63q0-5.3988 2.0567-10.155 2.0567-4.8846 5.6559-8.3553 3.5992-3.5992 8.3553-5.6559 4.8846-2.1852 10.283-2.1852h105.28q5.3988 0 10.155 2.1852 4.8846 2.0567 8.4839 5.6559 3.5992 3.4707 5.6559 8.3553 2.0567 4.7561 2.0567 10.155zm-65.814-21.338v21.338h39.463v-131.63h-105.28v131.63h39.463v-21.338z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+</g>
+</g>
+</g>
+</g>
+<g fill="#fff" filter="url(#afaqc)">
+<g transform="matrix(1.4372 0 0 1.4372 5.0149 -2.6283)" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="ANARCHISTYCZNE">
+<path d="m0.16477 36.414h6.04l3.28-7.64h10.52l3.16 7.64h6.04l-12.4-29.56h-4.32zm11.32-12.88 3.16-8.96 3.16 8.96z"/>
+<path d="m32.214 36.414h5.48v-21.48l12.36 21.48h6.12v-29.56h-5.48v21.52l-12.24-21.52h-6.24z"/>
+<path d="m59.149 36.414h6.04l3.28-7.64h10.52l3.16 7.64h6.04l-12.4-29.56h-4.32zm11.32-12.88 3.16-8.96 3.16 8.96z"/>
+<path d="m91.199 36.414h5.48v-11.32l7.76 11.32h6.76l-8-10.92c2.28-0.56 3.4-1.08 4.68-2.16 2.04-1.72 3.04-4.04 3.04-7 0-3.04-1.08-5.56-3.12-7.28-1.92-1.64-4.04-2.2-8.08-2.2h-8.52zm5.48-15.44v-8.88h2.44c2.56 0 3.96 0.28 4.84 1.04 0.96 0.76 1.44 1.92 1.44 3.36 0 3.12-1.8 4.48-6.04 4.48z"/>
+<path d="m135.8 28.174c-2.44 2.52-4.48 3.48-7.32 3.48-5.48 0-9.92-4.56-9.92-10.08 0-2.4 0.92-4.96 2.44-6.72 1.8-2.12 4.36-3.24 7.36-3.24 3.44 0 5.76 1.12 7.76 3.72h6.12c-1.16-2.56-2.2-3.96-4.2-5.6-2.72-2.2-6.2-3.4-9.8-3.4-8.36 0-15.2 6.84-15.2 15.2 0 8.56 6.92 15.4 15.56 15.4 6.08 0 11.32-3.36 13.64-8.76z"/>
+<path d="m145.89 36.414h5.48v-12.4h10.56v12.4h5.48v-29.56h-5.48v11.92h-10.56v-11.92h-5.48z"/>
+<path d="m173.39 36.414h5.48v-29.56h-5.48z"/>
+<path d="m182.4 27.974c0.2 2.32 0.72 3.8 1.92 5.4 1.76 2.24 4.64 3.56 7.8 3.56 5.32 0 9.44-4.12 9.44-9.48 0-2.48-0.88-4.56-2.64-6.16-1.16-1.08-2.08-1.56-5-2.68-2.8-1.04-2.88-1.08-3.28-1.32-1.08-0.68-1.64-1.6-1.64-2.68 0-1.76 1.24-3 3.04-3 1.84 0 2.96 1.12 3.12 3.12h5.68c-0.12-2.24-0.64-3.76-1.84-5.24-1.6-2-4.16-3.16-6.92-3.16-4.8 0-8.6 3.72-8.6 8.4 0 3.72 2.16 6.56 6.16 8.04 3.96 1.48 4.24 1.6 5.12 2.28 0.88 0.72 1.36 1.76 1.36 3 0 2.12-1.64 3.6-4 3.6-2.44 0-3.76-1.2-4-3.68z"/>
+<path d="m208.54 36.414h5.48v-24.32h5.48v-5.24h-16.44v5.24h5.48z"/>
+<path d="m230.58 36.414h5.48v-10.92l9.72-18.64h-5.92l-6.56 13.6-6.52-13.6h-5.92l9.72 18.64z"/>
+<path d="m267.75 28.174c-2.44 2.52-4.48 3.48-7.32 3.48-5.48 0-9.92-4.56-9.92-10.08 0-2.4 0.92-4.96 2.44-6.72 1.8-2.12 4.36-3.24 7.36-3.24 3.44 0 5.76 1.12 7.76 3.72h6.12c-1.16-2.56-2.2-3.96-4.2-5.6-2.72-2.2-6.2-3.4-9.8-3.4-8.36 0-15.2 6.84-15.2 15.2 0 8.56 6.92 15.4 15.56 15.4 6.08 0 11.32-3.36 13.64-8.76z"/>
+<path d="m275.45 31.774v4.64h18.48v-5.24h-11.88l11.12-19.4v-4.92h-17.12v5.24h10.6z"/>
+<path d="m297.45 36.414h5.48v-21.48l12.36 21.48h6.12v-29.56h-5.48v21.52l-12.24-21.52h-6.24z"/>
+<path d="m327.06 36.414h15.88v-5.24h-10.4v-6.88h9.96v-5.24h-9.96v-6.96h10.4v-5.24h-15.88z"/>
+</g>
+<g style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="FOAQ">
+<path transform="matrix(1.0065 0 0 1.0065 -1.6275 .1)" d="m229.12 61.305a110.65 110.65 0 0 0-110.65 110.65 110.65 110.65 0 0 0 110.65 110.65 110.65 110.65 0 0 0 110.65-110.65 110.65 110.65 0 0 0-110.65-110.65zm0 21.023a89.627 89.627 0 0 1 89.627 89.627 89.627 89.627 0 0 1-89.627 89.627 89.627 89.627 0 0 1-89.627-89.627 89.627 89.627 0 0 1 89.627-89.627z" stroke-width="6.3295"/>
+<g stroke-width="101.39" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="FAQ">
+<path d="m-1.6213 63.224h134.33v26.351h-107.98v52.703h92.166v26.351h-92.166v78.926h-26.351z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+<path d="m242.15 63.224 71.084 184.33h-26.351l-16.325-42.419h-83.167l-16.325 42.419h-26.351l71.084-184.33zm-44.733 115.56h62.986l-31.365-81.239z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+<path d="m499.83 221.2q0 5.3988-2.0567 10.283-2.0567 4.7561-5.6559 8.3553t-8.4839 5.6559q-4.7561 2.0567-10.155 2.0567h-39.463v34.192h-26.351v-34.192h-39.463q-5.3988 0-10.283-2.0567-4.7561-2.0567-8.3553-5.6559t-5.6559-8.3553q-2.0567-4.8846-2.0567-10.283v-131.63q0-5.3988 2.0567-10.155 2.0567-4.8846 5.6559-8.3553 3.5992-3.5992 8.3553-5.6559 4.8846-2.1852 10.283-2.1852h105.28q5.3988 0 10.155 2.1852 4.8846 2.0567 8.4839 5.6559 3.5992 3.4707 5.6559 8.3553 2.0567 4.7561 2.0567 10.155zm-65.814-21.338v21.338h39.463v-131.63h-105.28v131.63h39.463v-21.338z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
