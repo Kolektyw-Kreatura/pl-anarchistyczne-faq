@@ -1,5 +1,5 @@
 ---
-title: 'Sekcja A: Czym jest anarchizm?'
+title: 'A: Czym jest anarchizm?'
 ---
 
 ## Wstęp
