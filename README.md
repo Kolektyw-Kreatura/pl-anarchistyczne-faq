@@ -114,5 +114,5 @@ Całość jest dostępna na [licencji GNU](https://www.gnu.org/licenses/licenses
 Wcale nie nazywa się głupio, wręcz przeciwnie. Nazwa tego pliku mówi stronie na której jest wystawiony, do jakiego szablonu ma go załadować. Ponieważ nas interesuje tylko dokumentacja, mamy 3 szablony do wyboru:
 - chapter.md - okładka rozdziału, nie nadaje się do rzeczy które mają więcej niż 1 zdanie treści;
 - default.md - generyczna ściana tekstu, jak to w dokumentacji;
-- docs.md - strona dokumentacji właściwej, różnic wobec powyższego nie stwierdzono.  
+- docs.md - strona dokumentacji właściwej, zawiera m.in. strzałki do poprzeniej/następnej strony. 
 //TODO: Dodaj screeny tych szablonów!//
