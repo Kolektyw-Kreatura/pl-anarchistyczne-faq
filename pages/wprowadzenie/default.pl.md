@@ -1,8 +1,5 @@
 ---
 title: Wprowadzenie
-body_classes: ''
-order_by: ''
-order_manual: ''
 ---
 
 ## Gdzie ja jestem? O co tu chodzi?
