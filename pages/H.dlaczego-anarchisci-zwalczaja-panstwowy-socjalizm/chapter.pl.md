@@ -1,8 +1,9 @@
-***
+---
 title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
-***
+---
+
 H: Dlaczego anarchiści zwalczają państwowy socjalizm?
-***
+---
 
 * Wstęp  
 * H.1 Czy anarchiści od zawsze zwalczali państwowy socjalizm?  
