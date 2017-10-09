@@ -1,10 +1,10 @@
 ---
 title: 'I.1 Czy libertariański socjalizm to oksymoron?'
 ---
-\[Notka od tłumacza: W języku angielskim słowo „libertarian” ma dwa
+[Notka od tłumacza: W języku angielskim słowo „libertarian” ma dwa
 tłumaczenia - „wolnościowy” oraz „libertariański”. Mogą one być
 stosowane zamiennie. Dla zachowania jasności tekstu używam tutaj głównie
-określenia „libertariański”.\]
+określenia „libertariański”.]
 
 Jednym słowem: nie. To pytanie często zadawane jest przez tych, którzy
 natknęli się na tak zwaną „libertariańską” prawicę. Tak jak zostało to
@@ -26,7 +26,7 @@ tradycyjnie w innych częściach świata. Tutaj, „libertariański” oznacza
 ultraprawicowy i kapitalistyczny. W tradycji europejskiej
 „libertariański” oznacza socjalistyczny. Dlatego anarchizm bywa często
 nazywany „libertariańskim socjalizmem”, zatem musimy zachować szczególną
-ostrożność terminologiczną.” \[Reluctant Icon\]
+ostrożność terminologiczną.” [Reluctant Icon]
 
 To samo z siebie nie dowodzi, że termin „libertariański socjalista” jest
 wolny od sprzeczności. Jednakże, jak pokażemy dalej, twierdzenie, że
@@ -46,8 +46,8 @@ pomija bogatą i zróżnicowaną historię idei socjalistycznych, idei, które
 spłynęły z komunistycznego i indywidualistycznego anarchizmu do
 leninizmu. Benjamin Tucker kiedyś stwierdził: „fakt, że państwowy
 socjalizm … przesłonił inne formy socjalizmu, nie daje mu w żadnym
-wypadku prawa do monopolizowania idei socjalizmu” \[Zamiast Książki,
-str. 363-4\]. Niestety, wielu lewicowców łączy się z prawicowcami, by
+wypadku prawa do monopolizowania idei socjalizmu” [Zamiast Książki,
+str. 363-4]. Niestety, wielu lewicowców łączy się z prawicowcami, by
 właśnie tak robić. W rzeczywistości prawica (i oczywiście znaczna część
 lewicy) uznaje, że z definicji socjalizm to państwowa własność i
 kontrola nad środkami produkcji, wraz z centralnym planowaniem
@@ -90,8 +90,8 @@ ludziom zdobywanie środków do życia. Dzieje się tak dlatego, że w takiej
 sytuacji ludzie dobrowolne się zrzeszają jako równi sobie. Jak pisali
 John Most oraz Emma Goldman, „system komunizmu logicznie wyklucza
 istnienie jakichkolwiek relacji między panem a sługą, zatem tak naprawdę
-oznacza anarchizm” \[“Talking about Anarchy”, s. 28, Black Flag, nr.
-228, s. 28\]. Innymi słowy, opierając się na dobrowolnych zrzeszeniach i
+oznacza anarchizm” [“Talking about Anarchy”, s. 28, Black Flag, nr.
+228, s. 28]. Innymi słowy, opierając się na dobrowolnych zrzeszeniach i
 samozarządzaniu w każdym aspekcie życia, anarchistyczna forma socjalizmu
 może być tylko i wyłącznie libertariańska.
 
@@ -109,24 +109,24 @@ prawicowego „libertarianizmu”), kapitalista „oczywiście egzekwuje swoją
 władzę nad pracownikami” i chociaż „nie może egzekwować jej
 bezwzględnie” dzięki rynkowi, jednak w ramach tego ograniczenia
 „przedsiębiorca może do woli popuścić cugli swoich zachcianek” i
-„zwolnić pracowników od ręki” \[Ludwik von Mises, Socjalizm, str. 443 i
-str. 444\]. Prawicowi „wolnościowcy” są całkowicie ślepi na niszczące
+„zwolnić pracowników od ręki” [Ludwik von Mises, Socjalizm, str. 443 i
+str. 444]. Prawicowi „wolnościowcy” są całkowicie ślepi na niszczące
 wolność hierarchie powiązane z własnością prywatną, co pewnie nie jest
 zaskakujące, jako że są fundamentalnie prokapitalistyczni i
 antysocjalistyczni (również mało zaskakujące jest to, że prawdziwi
 wolnościowcy często nazywają ich „własnościowcami”). Jak poprawnie
 zauważa lewicowy ekonomista Geoffrey M. Hodgson:  
 
-„Zgodnie z ich własną logiką \[tacy\] indywidualiści rynkowi zmuszeni są
+„Zgodnie z ich własną logiką [tacy] indywidualiści rynkowi zmuszeni są
 zignorować strukturę organizacyjną firmy lub błędnie założyć, że
 wewnątrz niej istnieją rynki. W innym wypadku byliby zmuszeni przyznać,
 że system tak dynamiczny, jak kapitalizm opiera się na sposobie
-organizacji, z którego rynki są całkowicie wykluczone \[…\] To \[…\]
+organizacji, z którego rynki są całkowicie wykluczone […] To […]
 pozwala indywidualistom rynkowym na ignorowanie rzeczywistości
-nierynkowych organizacji w sektorze prywatnym \[…\] Mogą zatem ignorować
+nierynkowych organizacji w sektorze prywatnym […] Mogą zatem ignorować
 rzeczywistość kontroli i władzy wewnątrz kapitalistycznej korporacji,
 jednocześnie krytykując biurokrację sektora publicznego i centralne
-planowanie.” \[Economics and Utopia, str. 85-6\]
+planowanie.” [Economics and Utopia, str. 85-6]
 
 Perspektywa własnościowców nieuchronnie generuje ogromne sprzeczności,
 takie jak przyznanie, że zarówno państwowa, jak i prywatna własność mają
@@ -138,8 +138,8 @@ Wyeliminowanie państwa, lecz pozostawienie własności prywatnej nie
 byłoby zatem krokiem do przodu: „Świetny interes byśmy ubili, niszcząc
 państwo i zastępując je masą innych małych państewek! To jak zabicie
 potwora o jednej głowie i pozostawienie przy życiu potwora o tysiącu
-głów!” \[Carlo Cafiero, „Anarchy and Communism”, str. 179-86, The Raven,
-nr 6, str. 181\]
+głów!” [Carlo Cafiero, „Anarchy and Communism”, str. 179-86, The Raven,
+nr 6, str. 181]
 
 Dlatego utrzymujemy, że anarchizm to coś więcej niż bezpaństwowe
 społeczeństwo, gdyż społeczeństwo pozbawione państwa jest niezbędnym
@@ -148,36 +148,36 @@ również ograniczają wolność. Stąd Chomsky stwierdza:
 
 „To wszystko jest przede wszystkim oparte o ideę, że hierarchiczne i
 autorytarne struktury nie mogą uzasadnić swojego istnienia. Muszą mieć
-uzasadnienie \[…\] Na przykład, twoje miejsce pracy jest jednym z
+uzasadnienie […] Na przykład, twoje miejsce pracy jest jednym z
 ośrodków kontaktu i zrzeszania się. Zatem miejsca pracy powinny być
-demokratycznie sterowane przez wszystkich uczestniczących \[…\] jest
+demokratycznie sterowane przez wszystkich uczestniczących […] jest
 multum sposobów, w jakie ludzie wchodzą ze sobą w interakcje. Formy
 organizacji i zrzeszania się, które z nich się wywodzą, muszą być w jak
 największym możliwym stopniu nieautorytarne, niehierarchiczne oraz
-zarządzane i sterowane przez osoby w nich uczestniczące.”\[Reluctant
-Icon\]
+zarządzane i sterowane przez osoby w nich uczestniczące.”[Reluctant
+Icon]
 
 A zatem anarchiści utrzymują, że prawdziwie wolnościowe idee muszą być
 oparte o samorządność pracowniczą, czyli że pracownicy muszą kontrolować
 i zarządzać pracą, którą wykonują, określając, gdzie i jak ją wykonują
 oraz co dzieje się z owocami tej pracy, co zatem oznacza wyeliminowanie
 pracy najemnej. Lub, używając słów Proudhona „obalenie proletariatu”
-\[Selected Writings of Pierre-Joseph Proudhon, p. 179\] Jeżeli tego nie
+[Selected Writings of Pierre-Joseph Proudhon, p. 179] Jeżeli tego nie
 dokonamy, większość ludzkości będzie poddana autorytarnym stosunkom
 społecznym, które popierają Mises i pozostali prawicowi „libertarianie”.
 Jak to opisał pewien anarchokomunista:
 
 „To dlatego, że jednostka nie posiada samej siebie i nie pozwala się jej
 być prawdziwie sobą. Jest ona zwykłym towarem na rynku, instrumentem
-akumulacji kapitału – dla innych \[…\] indywidualność jest rozciągnięta
-na Prokrustesowym łożu biznesu \[…\] gdyby nasza indywidualność została
+akumulacji kapitału – dla innych […] indywidualność jest rozciągnięta
+na Prokrustesowym łożu biznesu […] gdyby nasza indywidualność została
 sprowadzona do opłaty za oddychanie, jakież oburzenie wywołałoby to w
 kwestii przemocy dokonanej na osobowości! A jednak nasze prawo do
 jedzenia i mieszkania jest nader często uwarunkowane utratą
 indywidualności. Te rzeczy dostają się pozbawionym własności milionom (i
 to jak skromnie!) tylko w zamian za ich indywidualność – stają się
-zwykłymi maszynami przemysłu.” \[Max Bainski, „Stirner: The Ego and His
-Own, str.142-151, Mother Earth, Vol. II nr 3, str. 150\]
+zwykłymi maszynami przemysłu.” [Max Bainski, „Stirner: The Ego and His
+Own, str.142-151, Mother Earth, Vol. II nr 3, str. 150]
 
 Socjalizm, jak utrzymują anarchiści, może oznaczać tylko bezklasowe i
 anty-autorytarne (libertariańskie) społeczeństwo, w którym ludzie sami
@@ -194,8 +194,8 @@ odwieczne przeciwstawianie się fałszywemu „indywidualizmowi” powiązanemu
 z klasycznym liberalizmem (tzw. prawicową ideologią „wolnościową”,
 znacznie trafniej dla jasności określaną jako „własnościowa”). Dlatego
 Emma Goldman odrzucała „ten rodzaj indywidualizmu”, w „którego imieniu
-\[…\] społeczna opresja jest broniona i podtrzymywana jako wartość.”
-\[Red Emma Speaks, str. 112\]
+[…] społeczna opresja jest broniona i podtrzymywana jako wartość.”
+[Red Emma Speaks, str. 112]
 
 Jak omówimy w sekcji I.3.3, uspołecznienie jest sposobem na
 wyeliminowanie pracy najemnej i jest powtarzającym się motywem we
@@ -218,7 +218,7 @@ socjalizmu. Podstawową zasadą socjalizmu jest to, że (społeczne)
 nierówności między jednostkami muszą być obalone, aby zapewnić wszystkim
 wolność (naturalne nierówności nie mogą być obalone, i nie dążą do tego
 anarchiści). Socjalizm, jak określił to Proudhon, jest „ponad wszystko
-egalitarny” \[No Gods, No Masters, vol. 1, str. 57\]. To odnosi się
+egalitarny” [No Gods, No Masters, vol. 1, str. 57]. To odnosi się
 również do nierówności we władzy, w szczególności władzy politycznej. A
 każdy system hierarchiczny (w szczególności państwo) jest naznaczony
 nierównościami we władzy – ci u góry (wybrani lub nie) mają więcej
@@ -230,17 +230,17 @@ najlogiczniejszym i najpełniejszym wymiarze tego słowa, jako że wymagamy
 dla każdej osoby nie tylko całości bogactwa społeczeństwa, lecz także
 jej części władzy społecznej, innymi słowy prawdziwej zdolności tej
 osoby do wywierania odczuwalnego wpływu, razem z wpływem wszystkich
-innych na zarządzanie sprawami publicznymi.” \[Malatesta i Hamon, Dz.
-Cyt., vol. 2, str. 20\]
+innych na zarządzanie sprawami publicznymi.” [Malatesta i Hamon, Dz.
+Cyt., vol. 2, str. 20]
 
 Wybieranie kogoś, by zarządzał sprawami publicznymi za ciebie, nie
 oznacza posiadania części władzy społecznej. Jest to, używając słów
 Emila Pouget (głównego francuskiego anarcho-syndykalisty) „akt
-abdykacji”, oddanie władzy w ręce nielicznych. \[Dz. Cyt., str. 67\]. To
+abdykacji”, oddanie władzy w ręce nielicznych. [Dz. Cyt., str. 67]. To
 oznacza, że „jakakolwiek władza polityczna nieuchronnie tworzy sytuację
 uprzywilejowania dla tych, którzy ją egzekwują. Zatem pogwałca, od
-samego początku, zasadę równości” \[Wolin, Nieznana Rewolucja, str.
-249\]
+samego początku, zasadę równości” [Wolin, Nieznana Rewolucja, str.
+249]
 
 Z tej krótkiej dyskusji, widzimy powiązania pomiędzy libertarianizmem, a
 socjalizmem. Bycie prawdziwym libertarianinem wymaga od ciebie
@@ -315,8 +315,8 @@ socjalizmem, gdyż ideały libertariańskie zakładają socjalistyczne i vice
 versa. Jak opisał to Bakunin w 1867 r.:
 
 „Socjalizm bez wolności to niewola i brutalność. Wolność bez socjalizmu
-to system przywilejów i niesprawiedliwość.” \[Bakunin on Anarchism, str.
-127\]
+to system przywilejów i niesprawiedliwość.” [Bakunin on Anarchism, str.
+127]
 
 Historia potwierdziła jego słowa. To nie libertariański socjalizm, lecz
 państwowy socjalizm i libertariański kapitalizm okazały się
