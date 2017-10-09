@@ -2,8 +2,8 @@
 title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
 ---
 
-### Sekcja H
-# Dlaczego anarchiści zwalczają państwowy socjalizm?
+### SEKCJA H
+## Dlaczego anarchiści zwalczają państwowy socjalizm?
 
 
 - Wstęp  
