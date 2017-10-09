@@ -32,8 +32,6 @@ title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
     * H.2.14 Czy anarchistyczne organizacje są albo "nieskuteczne", albo "elitarne", lub też "wręcz dziwaczne"?
     * H.2.15 Czy anarchiści odrzucają dyscyplinę?
     * H.2.16 Czy rewolucja hiszpańska ukazuje fiasko anarchizmu?
-
-
 * H.3 Jakie mity obowiązują w państwowym socjalizmie?
   * H.3.1 Czy anarchiści i marksiści pragną tego samego?
   * H.3.2 Czy marksizm to "socjalizm oddolny"?
