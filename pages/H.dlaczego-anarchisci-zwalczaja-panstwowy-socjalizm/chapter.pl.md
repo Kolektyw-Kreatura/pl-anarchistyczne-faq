@@ -48,9 +48,7 @@ title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
   * H.3.13 Dlaczego państwowy socjalizm to tylko państwowy kapitalizm?
   * H.3.14 Czyż marksiści nie wierzą w pracowniczą kontrolę?
   * H.3.15 Czy obiektywne czynniki tłumaczą fiasko rosyjskiej rewolucji?
-  * H.3.16 Czy bolszewicka ideologia wywarła wpływ na końcowy rezultat rewolucji rosyjskiej?
-
-
+  * H.3.16 Czy bolszewicka ideologia wywarła wpływ na końcowy rezultat rewolucji rosyjskiej?  
 * H.4 Czy Engels nie obalił założeń anarchizmu w swoim eseju "O władzy"?
   * H.4.1 Czy organizacja zakłada koniec wolności?
   * H.4.2 Jak wolna miłość kontra małżeństwo wskazuje na słabość argumentów Engelsa?
@@ -59,8 +57,6 @@ title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
   * H.4.5 Czy sposób, w jaki funkcjonuje przemysł jest "niezależny od wszelkiej organizacji społecznej"?
   * H.4.6 Dlaczego treść eseju "O władzy" Engelsa szkodzi marksizmowi?
   * H.4.7 Dlaczego argument Engelsa, że rewolucja jest "najbardziej autorytarna ze wszystkich rzeczy" zupełnie mija się z sensem?
-
-
 * H.5 Co to jest awangardyzm i dlaczego anarchiści go odrzucają?  
   * H.5.1 Dlaczego partie awangardy są antysocjalistyczne?
   * H.5.2 Czy założenia awangardyzmu zostały potwierdzone?
