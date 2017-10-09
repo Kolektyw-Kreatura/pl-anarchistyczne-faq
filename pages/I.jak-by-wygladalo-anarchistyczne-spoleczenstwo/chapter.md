@@ -1,5 +1,5 @@
 ---
-title: 'I: Jak by wyglądało anarchistyczne społeczeństwo?''
+title: 'I: Jak by wyglądało anarchistyczne społeczeństwo?'
 ---
 
 Wstęp
