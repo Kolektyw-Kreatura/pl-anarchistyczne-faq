@@ -1,21 +1,18 @@
 ---
 title: 'A: Czym jest anarchizm?'
 ---
+
 ### SEKCJA A
 ## Czym jest anarchizm?
 
 * Wstęp
-
-* A.1 Co to jest anarchizm?
-
+* A.1 Co to jest anarchizm?  
   * A.1.1 Co znaczy słowo "anarchia"?
   * A.1.2 Co znaczy słowo "anarchizm"?
   * A.1.3 Dlaczego anarchizm zwany jest także libertariańskim socjalizmem?
   * A.1.4 Czy anarchiści to socjaliści?
   * A.1.5 Skąd się wziął anarchizm?
-
 * A.2 Za czym się opowiada anarchizm?
-
   * A.2.1 Jaka jest istota anarchizmu?
   * A.2.2 Dlaczego anarchiści kładą szczególny nacisk na wolność?
   * A.2.3 Czy anarchiści popierają organizowanie się?
@@ -36,9 +33,7 @@ title: 'A: Czym jest anarchizm?'
   * A.2.18 Czy anarchiści popierają terroryzm?
   * A.2.19 Jakie poglądy etyczne wyznają anarchiści?
   * A.2.20 Dlaczego większość anarchistów to ateiści?
-
 * A.3 Jakie są rodzaje anarchizmu?
-
   * A.3.1 Na czym polegają różnice między anarchoindywidualistami a społecznymi anarchistami?
   * A.3.2 Czy istnieją różne rodzaje społecznego anarchizmu?
   * A.3.3 Jakie rodzaje Zielonego anarchizmu można wyróżnić?
@@ -48,16 +43,12 @@ title: 'A: Czym jest anarchizm?'
   * A.3.7 Czy istnieją religijni anarchiści?
   * A.3.8 Co to jest "anarchizm bezprzymiotnikowy"?
   * A.3.9 Co to jest anarcho-prymitywizm?
-
 * A.4 Jacy są główni myśliciele anarchistyczni?
-
   * A.4.1 Czy istnieją jacyś myśliciele bliscy anarchizmowi?
   * A.4.2 Czy istnieją jacyś myśliciele liberalni bliscy anarchizmowi?
   * A.4.3 Czy istnieją jacyś myśliciele socjalistyczni bliscy anarchizmowi?
   * A.4.4 Czy istnieją jacyś myślicile marksistowscy bliscy anarchizmowi?
-
 * A.5 Jakie można podać przykłady "anarchii w działaniu"?
-
   * A.5.1 Komuna Paryska
   * A.5.2 Męczennicy z Haymarket
   * A.5.3 Budowa syndykalistycznych związków zawodowych
