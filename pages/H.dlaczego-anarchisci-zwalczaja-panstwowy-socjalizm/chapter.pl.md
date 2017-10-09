@@ -2,8 +2,9 @@
 title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
 ---
 
-H: Dlaczego anarchiści zwalczają państwowy socjalizm?
----
+### SEKCJA H
+## Dlaczego anarchiści zwalczają państwowy socjalizm?
+
 
 * Wstęp  
 * H.1 Czy anarchiści od zawsze zwalczali państwowy socjalizm?  
@@ -14,7 +15,6 @@ H: Dlaczego anarchiści zwalczają państwowy socjalizm?
     * H.1.5 Dlaczego anarchiści odrzucają "wykorzystanie obecnego państwa"?
     * H.1.6 Dlaczego anarchiści próbują "budować nowy świat w skorupie starego"?
     * H.1.7 Ale czy nie czytaliście dzieła Lenina "Państwo a rewolucja"?  
-
 * H.2 Które strony anarchizmu marksiści przekręcają szczególnie często?  
     * H.2.1 Czy anarchiści odrzucają obronę rewolucji?
     * H.2.2 Czy anarchiści odrzucają potrzebę prowadzenia zbiorowej walki przez klasę robotniczą?
