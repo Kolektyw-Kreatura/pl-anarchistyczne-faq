@@ -3,8 +3,6 @@ title: 'A.1 Co to jest anarchizm?'
 visible: true
 ---
 
-# A.1 Co to jest anarchizm?
-
 Anarchizm jest teorią polityczną, której celem jest stworzenie anarchii, _"braku pana, suwerena"_ [Pierre-Joseph Proudhon, **Co to jest własność?** ] Innymi słowy, anarchizm jest teorią polityczną dążącą do stworzenia społeczeństwa, w którym jednostki swobodnie współpracują ze sobą jako równe sobie. Jako taki anarchizm zwalcza wszelkie formy hierarchicznej kontroli - czy to przez państwo, czy też przez kapitalistę - zarówno jako szkodliwe dla jednostki i jej odrębności, jak i niepotrzebne.
 
 Słowami anarchistki L. Susan Brown:
