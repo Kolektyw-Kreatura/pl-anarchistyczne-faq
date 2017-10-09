@@ -8,13 +8,13 @@ title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
 
 - Wstęp  
 - H.1 Czy anarchiści od zawsze zwalczali państwowy socjalizm?  
-  - H.1.1 Na czym polegała Bakuninowska krytyka marksizmu?
-  - H.1.2 Jakie są kluczowe różnice między anarchistami a marksistami?
-  - H.1.3 Dlaczego anarchiści pragną zlikwidować państwo "z dnia na dzień"?
-  - H.1.4 Czy anarchiści "nie mają absolutnie żadnego pomysłu" na to, co proletariat ma ustanowić w miejsce państwa?
-  - H.1.5 Dlaczego anarchiści odrzucają "wykorzystanie obecnego państwa"?
-  - H.1.6 Dlaczego anarchiści próbują "budować nowy świat w skorupie starego"?
-  - H.1.7 Ale czy nie czytaliście dzieła Lenina "Państwo a rewolucja"?  
+      - H.1.1 Na czym polegała Bakuninowska krytyka marksizmu?
+      - H.1.2 Jakie są kluczowe różnice między anarchistami a marksistami?
+      - H.1.3 Dlaczego anarchiści pragną zlikwidować państwo "z dnia na dzień"?
+      - H.1.4 Czy anarchiści "nie mają absolutnie żadnego pomysłu" na to, co proletariat ma ustanowić w miejsce państwa?
+      - H.1.5 Dlaczego anarchiści odrzucają "wykorzystanie obecnego państwa"?
+      - H.1.6 Dlaczego anarchiści próbują "budować nowy świat w skorupie starego"?
+      - H.1.7 Ale czy nie czytaliście dzieła Lenina "Państwo a rewolucja"?  
 
 
 - H.2 Które strony anarchizmu marksiści przekręcają szczególnie często?  
