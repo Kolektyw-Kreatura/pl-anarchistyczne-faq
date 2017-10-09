@@ -1,13 +1,12 @@
 ---
 title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
 ---
+
 # H: Dlaczego anarchiści zwalczają państwowy socjalizm?
 
 
 - Wstęp
-
-- H.1 Czy anarchiści od zawsze zwalczali państwowy socjalizm?
-
+- H.1 Czy anarchiści od zawsze zwalczali państwowy socjalizm?  
   - H.1.1 Na czym polegała Bakuninowska krytyka marksizmu?
   - H.1.2 Jakie są kluczowe różnice między anarchistami a marksistami?
   - H.1.3 Dlaczego anarchiści pragną zlikwidować państwo "z dnia na dzień"?
@@ -17,7 +16,6 @@ title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
   - H.1.7 Ale czy nie czytaliście dzieła Lenina "Państwo a rewolucja"?
 
 - H.2 Które strony anarchizmu marksiści przekręcają szczególnie często?
-
   - H.2.1 Czy anarchiści odrzucają obronę rewolucji?
   - H.2.2 Czy anarchiści odrzucają potrzebę prowadzenia zbiorowej walki przez klasę robotniczą?
   - H.2.3 Czy anarchizm "tęskni za minionym"?
@@ -36,7 +34,6 @@ title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
   - H.2.16 Czy rewolucja hiszpańska ukazuje fiasko anarchizmu?
 
 - H.3 Jakie mity obowiązują w państwowym socjalizmie?
-
   - H.3.1 Czy anarchiści i marksiści pragną tego samego?
   - H.3.2 Czy marksizm to "socjalizm oddolny"?
   - H.3.3 Czy leninizm to "socjalizm oddolny"?
@@ -53,8 +50,8 @@ title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
   - H.3.14 Czyż marksiści nie wierzą w pracowniczą kontrolę?
   - H.3.15 Czy obiektywne czynniki tłumaczą fiasko rosyjskiej rewolucji?
   - H.3.16 Czy bolszewicka ideologia wywarła wpływ na końcowy rezultat rewolucji rosyjskiej?
-- H.4 Czy Engels nie obalił założeń anarchizmu w swoim eseju "O władzy"?
 
+- H.4 Czy Engels nie obalił założeń anarchizmu w swoim eseju "O władzy"?
   - H.4.1 Czy organizacja zakłada koniec wolności?
   - H.4.2 Jak wolna miłość kontra małżeństwo wskazuje na słabość argumentów Engelsa?
   - H.4.3 Jak anarchiści chcą kierować fabryką?
@@ -64,7 +61,6 @@ title: 'H: Dlaczego anarchiści zwalczają państwowy socjalizm?'
   - H.4.7 Dlaczego argument Engelsa, że rewolucja jest "najbardziej autorytarna ze wszystkich rzeczy" zupełnie mija się z sensem?
 
 - H.5 Co to jest awangardyzm i dlaczego anarchiści go odrzucają?
-
   - H.5.1 Dlaczego partie awangardy są antysocjalistyczne?
   - H.5.2 Czy założenia awangardyzmu zostały potwierdzone?
   - H.5.3 Dlaczego awangardyzm zakłada władzę partii?
