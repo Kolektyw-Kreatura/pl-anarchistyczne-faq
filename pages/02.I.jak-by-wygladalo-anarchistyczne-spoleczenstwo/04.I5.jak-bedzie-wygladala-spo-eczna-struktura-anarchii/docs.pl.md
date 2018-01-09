@@ -1,6 +1,5 @@
 ---
-title: 'I.1 Czy libertariański socjalizm to oksymoron?'
-visible: true
+media_order: ''
 ---
 
  
