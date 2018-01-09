@@ -1,6 +1,5 @@
 ---
-title: 'I.4.1 Jaki jest cel działalności gospodarczej w anarchizmie?'
-visible: true
+media_order: ''
 ---
 
 #### I.4.1 Jaki jest cel działalności gospodarczej w anarchizmie?
