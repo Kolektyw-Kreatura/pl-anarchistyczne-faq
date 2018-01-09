@@ -1,5 +1,5 @@
 ---
-title: 'I: Jak by wyglądało anarchistyczne społeczeństwo?'
+media_order: ''
 ---
 
 * Wstęp
