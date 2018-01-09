@@ -1,6 +1,5 @@
 ---
-title: 'I.2.1 Dlaczego mamy w ogóle dyskutować, jakie powinno być anarchistyczne społeczeństwo?'
-visible: true
+media_order: ''
 ---
 
 Po części, by wskazać, dlaczego ludzie powinni zostać anarchistami.
