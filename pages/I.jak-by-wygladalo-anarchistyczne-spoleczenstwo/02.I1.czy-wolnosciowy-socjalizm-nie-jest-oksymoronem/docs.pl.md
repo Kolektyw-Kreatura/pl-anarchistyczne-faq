@@ -1,6 +1,7 @@
 ---
-title: 'I.1 Czy libertariański socjalizm to oksymoron?'
+media_order: ''
 ---
+
 [Notka od tłumacza: W języku angielskim słowo „libertarian” ma dwa
 tłumaczenia - „wolnościowy” oraz „libertariański”. Mogą one być
 stosowane zamiennie. Dla zachowania jasności tekstu używam tutaj głównie
