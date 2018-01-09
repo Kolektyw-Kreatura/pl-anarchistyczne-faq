@@ -1,5 +1,5 @@
 ---
-title: 'Po co w ogóle rozważać, jakie będzie anarchistyczne społeczeństwo?'
+title: 'I.2.1 Dlaczego mamy w ogóle dyskutować, jakie powinno być anarchistyczne społeczeństwo?'
 visible: true
 ---
 
