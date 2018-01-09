@@ -1,9 +1,5 @@
-
 ---
-
 title: 'Po co w ogóle rozważać, jakie będzie anarchistyczne społeczeństwo?'
-visible: true
-
 ---
 
 Po części, by wskazać, dlaczego ludzie powinni zostać anarchistami.
