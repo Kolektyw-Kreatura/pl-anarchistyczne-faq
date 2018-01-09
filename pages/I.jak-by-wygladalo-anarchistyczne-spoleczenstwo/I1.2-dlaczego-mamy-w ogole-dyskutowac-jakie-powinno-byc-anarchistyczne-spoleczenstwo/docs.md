@@ -1,7 +1,8 @@
 ---
 title: 'Po co w ogóle rozważać, jakie będzie anarchistyczne społeczeństwo?'
-visible:true
+visible: true
 ---
+
 Po części, by wskazać, dlaczego ludzie powinni zostać anarchistami.
 Większość ludzi nie lubi kupować kota w worku, dlatego wskazanie, co
 anarchiści uważają za pożądane społeczeństwo, może pomóc tym ludziom,
