@@ -1,12 +1,9 @@
-I.5.13 Czy anarchistyczne społeczeństwo nie byłoby podatne na głodnych
-władzy?
-
 Częstym kontrargumentem wobec anarchizmu jest to, że anarchistyczne
 społeczeństwo byłoby podatne na przejęcie przez bandytów lub tych,
 którzy pragną władzy. Podobnym argumentem jest to, że grupa pozbawiona
 struktury władzy staje się podatna na charyzmatycznych liderów, więc
-anarchia prowadzi do tyranii.\
-\
+anarchia prowadzi do tyranii.
+
 Dla anarchistów takie argumenty są co najmniej dziwne. Społeczeństwo już
 jest rządzone przez bandytów i/lub ich potomków. Królowie byli z
 początku po prostu zwycięskimi bandytami, którym udało się narzucić
@@ -48,7 +45,7 @@ Obroniliby tę wolność wobec tych, którzy próbowali władzę przywrócić.
 Zorganizowaliby się tak, by sami zarządzać swoimi sprawami, a zatem by
 obalić wszelką hierarchię. A my mamy uwierzyć, że ci ludzie, po krwawej
 walce o swoją wolność, spokojnie pozwoliliby nowym bandytom przejąć nad
-nimi władzę? Jak wykazał Kropotkin:\
+nimi władzę? Jak wykazał Kropotkin:
 
 „Jedynym sposobem na osiągnięcie stanu Anarchii jest takie zachowywanie
 się każdego \[i każdej\], kto jest poddany opresji tak jakby żył w
@@ -98,7 +95,7 @@ zostały zdradzone przez Republikan i Marksistów. Z tego doświadczenia
 historycznego anarchiści utrzymują, że anarchistyczne społeczeństwo
 szybko i łatwo zwalczałoby bandytów, jako że lud byłby przyzwyczajony do
 stosowania działań bezpośrednich i samozarządzania, a zatem nie miałby
-żadnego zamiaru przestać ich stosować.\
+żadnego zamiaru przestać ich stosować.
 
 Co do argumentu, że samozarządzanie doprowadziłoby do władzy
 „charyzmatycznych" przywódców, to rozumowanie jest zdumiewające. Tak
@@ -119,8 +116,8 @@ do przywódców, by działali za niego, skąd w naturalny sposób powstają
 „charyzmatyczni" przywódcy. Anarchistyczne społeczeństwo, dając władzę
 wszystkim, utrudniłoby, nie ułatwiło dojście do władzy przywódcy --
 niewielu, o ile ktokolwiek, chciałoby poświęcić się i zanegować własne
-ja dla zysku kogoś innego.\
-\
+ja dla zysku kogoś innego.
+
 Jak widać na podstawie tego, co napisaliśmy powyżej, anarchiści uważają,
 że anarchistyczne społeczeństwo musi bronić się przeciwko próbom
 przywrócenia państwa i własności prywatnej. Kwestia obrony
@@ -131,13 +128,13 @@ Nasza dyskusja o żądnych władzy oczywiście powiązana jest z bardziej
 ogólnym pytaniem o to, jak etyczne zachowania byłyby wynagradzane w
 anarchistycznym społeczeństwie. Innymi słowy, czy anarchistyczne
 społeczeństwo zachowałoby stabilność, czy przejęliby kontrolę ci, którzy
-są pozbawieni moralności?\
-\
+są pozbawieni moralności?
+
 To właśnie jeden z najbardziej przerażających aspektów życia w świecie,
 w którym gorączka zdobywania bogactwa jest jednym z najważniejszych
 aspektów życia -- to, co dzieje się z ludźmi, którzy w życiu podążają
-ścieżką moralności.\
-\
+ścieżką moralności.
+
 W kapitalizmie moralnie dobrzy zazwyczaj nie odnoszą sukcesów takich jak
 ci, którzy wbijają innym nóż w plecy, obcinają wydatki, dopuszczają się
 oszustw finansowych, równają swoich konkurentów z ziemią i przeżywają

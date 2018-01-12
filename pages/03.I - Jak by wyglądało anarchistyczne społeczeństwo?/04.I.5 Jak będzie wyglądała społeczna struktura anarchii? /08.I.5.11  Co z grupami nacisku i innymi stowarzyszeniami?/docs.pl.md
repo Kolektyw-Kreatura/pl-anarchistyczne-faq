@@ -1,5 +1,3 @@
-I.5.11 Co z kołami zainteresowań i innymi stowarzyszeniami?
-
 Anarchiści nie uważają, że życie społeczne można ograniczyć tylko do
 stowarzyszeń politycznych i ekonomicznych. Poszczególne osoby mają różne
 zainteresowania i pragnienia, które muszą egzekwować, by wieść
@@ -13,7 +11,7 @@ stowarzyszenia ochrony praw zwierząt, grupy zrzeszone na bazie płci,
 seksualności, pochodzenia, koloru skóry itd. Stowarzyszenia będą się
 tworzyć dla wszelkich ludzkich zainteresowań i zajęć.
 
-Jak twierdził Kropotkin:\
+Jak twierdził Kropotkin:
 
 „Ten, kto pragnie mieć fortepian, dołączy do stowarzyszenia twórców
 instrumentów muzycznych. I oddając stowarzyszeniu część swojego wolnego

@@ -1,5 +1,3 @@
-I.5.10 Co z partiami politycznymi?
-
 Partie polityczne i inne grupy interesu będą istnieć w anarchistycznym
 społeczeństwie tak długo jak ludzie będą odczuwali potrzebę by się do
 nich przyłączać. Nie będą w żaden sposób *„zakazane"*, a ich członkowie

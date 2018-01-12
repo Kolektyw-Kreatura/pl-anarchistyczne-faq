@@ -1,10 +1,7 @@
-I.5.12 Jak anarchistyczne społeczeństwo zapewniałoby opiekę zdrowotną i
-inne usługi publiczne?
-
 To zależy od tego, o jakim rodzaju anarchistycznego społeczeństwa
 mówimy. Różni anarchiści proponują różne rozwiązania.
 
-\
+
 Na przykład w indywidualistyczno-mutualistycznym społeczeństwie opieka
 zdrowotna byłaby zapewniana przez osoby lub kooperatywy na zasadzie
 opłat za korzystanie. Jest prawdopodobne, że jednostki lub
@@ -43,8 +40,8 @@ r., razem z USA wydawały ponad 7% swojego PKB na opiekę medyczną. W roku
 Jak widać, socjalni anarchiści wskazują na to, co dzieje się w
 kapitalizmie przy dyskusjach o uspołecznieniu służby zdrowia w
 anarchistycznym społeczeństwie. Utrzymują, że konkurencja pogarsza
-świadczenie usług medycznych. Według Alfie Kohn:\
-\
+świadczenie usług medycznych. Według Alfie Kohn:
+
 „\[W USA -- przyp. tłum.\] Większość szpitali i klinik jest obecnie
 prowadzona przez nastawione na zysk korporacje; wiele instytucji,
 zmuszone do walki o „klientów", bardziej ceni sobie uzdolnionego
@@ -77,7 +74,7 @@ mniej więcej podobne długości życia od dorosłości) \[...\] większość
 krajów z systemami powszechnej służby zdrowia ma również wyższe
 statystyki zadowolenia pacjentów."
 
-\
+
 „Przyczyny \[\...\] powinny być oczywiste. Z natury swojej, systemy
 powszechne wydają mniej pieniędzy na marnotrawcze koszty operacyjne, a
 więcej na zapobieganie problemom zdrowotnym. Same ubezpieczenia
@@ -107,8 +104,8 @@ Szwecji, Niemczech, Japonii i Wielkiej Brytanii. USA ma najwyższe
 poziomy umieralności wśród noworodków i jest ostatnie we wszystkich
 podstawowych wskaźnikach zdrowia publicznego, jak i posiada mniej
 lekarzy na 1000 osób niż średnia OECD. Ogólnie rzecz biorąc, system w
-USA jest daleko w tyle za publicznymi systemami w innych krajach.\
-\
+USA jest daleko w tyle za publicznymi systemami w innych krajach.
+
 Oczywiście można stwierdzić, że USA nie jest anarchią, więc takie
 porównania są bezsensowne. Jednakże wydaje się dziwne, że dużo bardziej
 konkurencyjny, sprywatyzowany system jest o wiele mniej wydajny i
@@ -116,8 +113,8 @@ sprawiedliwy od systemów powszechnej służby zdrowia. Dziwne jest też, że
 obrońcy konkurencji rynkowej z chęcią przytaczają przykłady z „naprawdę
 istniejącego" kapitalizmu, by zilustrować swoje pomysły, jednocześnie
 odrzucając negatywne przykłady jako wyniki „zanieczyszczonego" systemu.
-Chcą zjeść ciastko i wciąż je mieć.\
-\
+Chcą zjeść ciastko i wciąż je mieć.
+
 Dlatego większość anarchistów popiera uspołeczniony i powszechny system
 opieki zdrowotnej, zarówno z powodów etycznych, jak i wydajności. Jak
 łatwo można się domyślić, anarchistyczny system uspołecznionej służby
@@ -142,8 +139,8 @@ federacjami komun. Każdy szpital lub przychodnia byłyby autonomiczne,
 jednak przy tym połączone w federację wraz z innymi, pozwalając na łatwe
 dzielenie się zasobami w miarę potrzeb, jednocześnie pozwalając na
 dostosowanie usług medycznych do lokalnych potrzeb i wymagań tak szybko,
-jak to możliwe.\
-\
+jak to możliwe.
+
 Rewolucja Hiszpańska pokazuje, jak funkcjonowałby taki system
 anarchistycznej służby zdrowia. Na wsi lokalni lekarze zazwyczaj
 dołączali do wiejskich kolektywów i dostarczali swoich usług tak, jak
@@ -161,8 +158,8 @@ Anarchists in the Spanish Civil War, vol. 1, str. 331 i str. 366-7\]
 
 Uspołecznienie służby zdrowia wyglądało trochę inaczej w Katalonii,
 jednak oparto je o te same wolnościowe założenia. Gaston Leval dostarcza
-świetnego podsumowania tego procederu:\
-\
+świetnego podsumowania tego procederu:
+
 „Uspołecznienie usług zdrowotnych było jednym z największych osiągnięć
 rewolucji. Aby móc docenić starania naszych towarzyszy, należy
 przypomnieć, że przywrócili oni służbę zdrowia w całej Katalonii w
@@ -218,12 +215,12 @@ Mutuos de Levante (instytucję opieki zdrowotnej stworzoną przez związek
 jako swego rodzaju towarzystwo świadczeń wzajemnych, która miała w
 swoich szeregach wielu lekarzy i specjalistów). Podczas rewolucji,
 Mutuos miało 50 lekarzy i było dostępne dla wszystkich powiązanych z nią
-pracowników i ich rodzin.\
-\
+pracowników i ich rodzin.
+
 A zatem, w całej Hiszpanii, pracownicy służby zdrowia zreorganizowali
 swoją gałąź przemysłu zgodnie z ideałami wolnościowymi i we współpracy z
 lokalnymi kolektywami lub komunami oraz związkami CNT. Jak podsumowuje
-Gaston Leval:\
+Gaston Leval:
 
 „Wszędzie, gdzie udało nam się zbadać miasta i wsie przemienione przez
 rewolucję, szpitale, kliniki, polikliniki i inne zakłady służby zdrowia
@@ -238,8 +235,8 @@ organizować swoje miejsca pracy, łączyć się w federacje, by dzielić się
 zasobami i informacjami, by tworzyć wspólne plany oraz polepszać jakość
 dostarczanych usług. Komuny i ich federacje, syndykaty i federacje
 syndykatów dostarczą niezbędnych zasobów i efektywnie kierować służbą
-zdrowia, umożliwiając wszystkim dostęp do niej.\
-\
+zdrowia, umożliwiając wszystkim dostęp do niej.
+
 Podobne systemy działałyby w przypadku innych usług publicznych. Na
 przykład w edukacji oczekujemy, że członkowie komun zorganizują system
 wolnościowych szkół. To też można było dostrzec podczas Rewolucji
@@ -260,7 +257,7 @@ Jose Periats, The CNT in the Spanish Revolution, str. 70\] Założenia
 wolnościowej edukacji, czyli promowanie wolności zamiast władzy w
 szkole, zostały zaaplikowane na szeroką skalę (zob. sekcję J.5.13 dla
 bardziej szczegółowego opisu Nowoczesnych Szkół i wolnościowej
-edukacji).\
+edukacji).
 
 Ta edukacyjna rewolucja nie ograniczała się tylko do kolektywów lub
 dzieci. Na przykład Federacion Regional de Campesinos de Levante
@@ -296,8 +293,8 @@ wszystkich pracowników, którzy wybieraliby i odwoływali delegatów, grupę
 administracyjną i decydowali o ogólnym planie działania szpitala.
 Oczywiście, wszystkie inne zainteresowane grupy miałyby możliwość
 współdecydowania, łącznie z pacjentami objętymi systemem służby zdrowia
-oraz uczniami objętymi systemem edukacji.\
-\
+oraz uczniami objętymi systemem edukacji.
+
 Zatem, jak można się domyślić, usługi publiczne byłyby organizowane
 przez samo społeczeństwo, zorganizowane w syndykaty i komuny. Byłyby
 oparte o samozarządzanie pracowników, którzy sami decydowaliby o swoich
@@ -309,8 +306,8 @@ odpowiednie do potrzeb korzystających z nich ludzi. Zasoby konieczne, by
 utrzymać i rozwijać systemy, byłyby dostarczane przez komuny, syndykaty
 i ich federacje. Po raz pierwszy w historii usługi publiczne byłyby
 rzeczywiście publiczne, a nie państwowe, narzucone z góry
-społeczeństwu.\
-\
+społeczeństwu.
+
 Oczywiście, jakikolwiek system świadczeń społecznych nie byłby narzucony
 tym, którzy go nie chcą. Byłby zorganizowany przez i dla członków komun.
 Zatem, jednostki, które nie należałyby do lokalnej komuny lub syndykatu,
