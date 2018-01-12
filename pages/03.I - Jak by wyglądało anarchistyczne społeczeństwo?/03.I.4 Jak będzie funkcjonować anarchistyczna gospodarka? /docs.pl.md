@@ -2,8 +2,6 @@
 media_order: ''
 ---
 
-#### I.4.1 Jaki jest cel działalności gospodarczej w anarchizmie?
-
 Podstawowym celem działalności gospodarczej w anarchistycznym
 społeczeństwie jest dopilnowanie tego, by produkowane było to, czego
 potrzebujemy, a także, by nasza konsumpcja była w pełni naszej własnej
