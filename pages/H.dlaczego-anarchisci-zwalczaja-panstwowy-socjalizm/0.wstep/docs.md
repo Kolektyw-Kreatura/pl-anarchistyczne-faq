@@ -1,4 +1,8 @@
-Sekcja H - Dlaczego anarchiści zwalczają państwowy socjalizm?
+---
+title: 'Wstęp'
+---
+## Sekcja H
+# Dlaczego anarchiści zwalczają państwowy socjalizm?
 
 Obóz zwolenników socjalizmu stale był podzielony, obejmując rozmaite sprzeczne dążenia i ruchy społeczne. Dwie główne tendencje w ruchu socjalistycznym to: socjalizm państwowy (marksizm, leninizm, maoizm itp.) i socjalizm wolnościowy (anarchizm we wszystkich swoich najróżniejszych formach). Konflikt i niezgoda między anarchistami a marksistami urosły do rozmiarów legendy. Zauważył to Benjamin Tucker:
 
