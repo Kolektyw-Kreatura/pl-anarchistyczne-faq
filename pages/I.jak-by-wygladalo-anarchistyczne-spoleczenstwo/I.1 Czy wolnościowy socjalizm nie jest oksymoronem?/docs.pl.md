@@ -1,6 +1,6 @@
 ---
 media_order: ''
-visible:true
+visible: true
 ---
 
 [Notka od tłumacza: W języku angielskim słowo „libertarian” ma dwa
