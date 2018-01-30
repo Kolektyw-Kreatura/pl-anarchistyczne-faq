@@ -1,5 +1,6 @@
 ---
 media_order: ''
+visible: true
 ---
 
 Po części, by wskazać, dlaczego ludzie powinni zostać anarchistami.

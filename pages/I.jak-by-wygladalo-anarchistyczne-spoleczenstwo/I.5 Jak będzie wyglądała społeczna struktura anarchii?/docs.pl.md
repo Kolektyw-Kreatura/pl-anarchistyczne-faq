@@ -1,5 +1,6 @@
 ---
 media_order: ''
+visible: true
 ---
 
  
