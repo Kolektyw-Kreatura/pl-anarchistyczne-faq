@@ -1,9 +1,6 @@
 ---
-title: 'A: Czym jest anarchizm?'
+title: 'Wstęp'
 ---
-
-## Wstęp
-
 Nowoczesna cywilizacja stoi wobec trzech kryzysów, mogących doprowadzić do katastrofy:
 
 1.  załamania się społeczeństwa (pod tą skrótową nazwą rozumiemy narastające odsetki ubóstwa, bezdomności, przestępstw, przemocy, wyobcowania, nadużywania narkotyków i alkoholu, społecznej izolacji, politycznej apatii, odczłowieczenia, upadek społecznych struktur samopomocy i wzajemnej pomocy itd.);
