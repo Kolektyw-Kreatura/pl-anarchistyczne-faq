@@ -1,3 +1,7 @@
+---
+visible: true
+---
+
 I.8 Czy rewolucyjna Hiszpania jest dowodem na to, że wolnościowy
 socjalizm może sprawdzić się w praktyce?
 
